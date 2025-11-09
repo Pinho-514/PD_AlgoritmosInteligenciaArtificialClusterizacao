@@ -1,0 +1,9 @@
+pandas
+numpy<=2.1
+matplotlib
+seaborn
+scikit-learn
+scipy
+kagglehub
+ydata-profiling[notebook]
+jupyter-contrib-nbextensions
